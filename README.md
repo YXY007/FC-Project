@@ -1,9 +1,19 @@
 <h1>Abstract</h1>
 <h1>Declaration</h1>
+<200
+
+copyright？
+
 <h1>Acknowledgements</h1>
 <h1>Content</h1>
 <h1>Introduction</h1>
 市场倾向？目标是预测股价和投资组合？
+
+subject matter & scope of investigation
+
+purpose
+
+organization
 
 <h1>Literature Review</h1>
 <h2>Sentiment Analysis</h2>
@@ -61,3 +71,4 @@ website图
 <h1>Conclusion</h1>
 <h1>Reference</h1>
 <h1>Appendices</h1>
+platform的使用说明
