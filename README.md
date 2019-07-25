@@ -1,4 +1,3 @@
-[TOC]
 #Abstract
 #Declaration
 #Acknowledgements
